@@ -1,3 +1,5 @@
+** THIS REPO IS NO LONGER MAINTAINED See the [fork at bbvch](https://github.com/bbvch/CPP_Booklet) for the current version**
+
 These are examples illustrating the use of some of the C++11/14/17 features used in the [booklet about C++11/14/17 language](https://www.bbv.ch/de/index.php/?option=com_content&view=article&id=186&Itemid=361#c-11-14-sprach-und-standard-library-erweiterungen) (*german*) produced by bbv software services
 
 # Supported Compilers
